@@ -1,4 +1,4 @@
-\# Ejercicio 3
+# Ejercicio 3
 
 Subir a Github los dos ejercicios previos tanto con solución en R como en Python. Comparar las funciones. Ventajas y desventajas de ambas.
 
