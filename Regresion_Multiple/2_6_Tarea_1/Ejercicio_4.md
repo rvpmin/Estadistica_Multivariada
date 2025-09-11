@@ -24,9 +24,9 @@ Describe los métodos de selección de variables y sus ventajas y desventajas:
 ### → Selección hacia adelante (forward)
 > En este método se inicia de un modelo sin variables. En cada paso se agrega al modelo la variable que produce la mejora más significativa en el modelo, hasta que ninguna de las variables que queden fuera del modelo aporten una mejora significativa.
 
-**Ventajas:** Es eficiente computacionalmente y es bueno peara encontrar modelos pequeños con las variables más importantes.
+    **Ventajas:** Es eficiente computacionalmente y es bueno peara encontrar modelos pequeños con las variables más importantes.
 
-**Desventajas:** Puede que no encuentre el mejor modelo posible dado su enfoque *greedy*.
+    **Desventajas:** Puede que no encuentre el mejor modelo posible dado su enfoque *greedy*.
 
 
 ### → Selección hacia atrás (backward)
